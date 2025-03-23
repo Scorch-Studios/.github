@@ -1,7 +1,7 @@
 # 🔥 Scorch Studio 🔥
 Forging the future, burning the limits.
 
-Scorch Studio is a dedicated team focused on developing advanced plugins and custom setups for Minecraft servers. We prioritize innovation, performance, and customization, pushing every project to the next level
+Scorch Studio is a dedicated team focused on developing advanced plugins and custom setups for Minecraft servers. We prioritize innovation, performance, and customization, pushing every project to the next level.
 
 ## 🚀 In Development
 🔥 WildCore (Survival Core) – A highly configurable survival core with advanced tools.
